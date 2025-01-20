@@ -2,7 +2,7 @@
 
  
 ## Sobre mim
-### Oi, me chamo Wellington. Alguns me chamam de Well... é mais facíl!
+### Oi, me chamo Wellington.
 ##### Estou começando minha jornada como desenvolvedor front-end. Sou apaixonado por tentar criar e aprender mais sobre interfaces de usuário e funcionais que proporcionam ótimas experiências ao usuário final. Estou aprendendo e me atualizando sobre as mais recentes tecnologias e tendências do mundo do desenvolvimento web e onde, como e em que eu posso ser útil e agregar valores.
 
 
