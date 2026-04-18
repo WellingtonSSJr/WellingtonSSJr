@@ -1,24 +1,46 @@
-# Bem-Vindo!
+# Olá, eu sou o Wellington! 👋
 
- 
-## Sobre mim
-### Oi, me chamo Wellington.
-##### Estou começando minha jornada como desenvolvedor front-end. Sou apaixonado por tentar criar e aprender mais sobre interfaces de usuário e funcionais que proporcionam ótimas experiências ao usuário final. Estou aprendendo e me atualizando sobre as mais recentes tecnologias e tendências do mundo do desenvolvimento web e onde, como e em que eu posso ser útil e agregar valores.
+### Desenvolvedor Front-End / ""Full-Stack"" rs
 
+Sou apaixonado por arquitetar e desenvolver aplicações web e mobile, transformando problemas complexos em interfaces intuitivas e de alto desempenho. Com forte foco em qualidade de código. Busco sempre entregar a melhor experiência.
 
-:computer: Iniciante no universo Front-End!
+---
 
-:house_with_garden: Brasileiro! Moro em Araruama-RJ.
+## Sobre Mim
 
-:books: Atualmente estou estudando ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB), mas já passei por:
-* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white);
+- Atualmente aprofundando meus conhecimentos e buscando especialização através de uma **Pós-graduação em Ciência da Computação**.
+- Co-fundador da **L3 Tech**, atuando com foco em soluções de tecnologia, infraestrutura e DevOps.
+- Tenho experiência sólida no desenvolvimento e manutenção de sistemas críticos para a área da saúde (como gestão nutricional e beira-leito hospitalar), lidando de ponta a ponta com a arquitetura front-end e integrações.
+- Brasileiro, morando na região dos Lagos (Araruama-RJ), e em constante aprimoramento dos meus conhecimentos.
 
+---
 
- 
+## Minha Stack e Ferramentas
 
-## Contatos
+**Front-End & Mobile:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/WellingtonSSJr)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK_LINKEDIN)](https://www.linkedin.com/in/wellingtonssoares/)
+**Gerenciamento de Estado & Validação:**
+![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3068b7?style=for-the-badge&logo=zod&logoColor=white)
 
-#### Desde já, agradeço pela visita. Até mais!! o/
+**Back-End, Infraestrutura & Automação:**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 📫 Como me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellingtonssoares/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WellingtonSSJr)
+
+#### Obrigado pela visita! o/
